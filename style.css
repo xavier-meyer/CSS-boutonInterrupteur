@@ -1,0 +1,9 @@
+#carre{
+    height:40px;
+    width: 40px;
+    background-color: black;
+}
+
+.mystyle{
+    display: none;
+}
